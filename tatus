@@ -1,0 +1,11 @@
+[33mcommit ae25338e45950285a525a41b6e22b3f6ae35f0ca[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: P <User@HAUSER.(none)>
+Date:   Thu Mar 30 14:19:36 2023 -0300
+
+    class 02 - Sticker Generator class being instantiated in the App class, to create stickers from the API images
+
+[33mcommit d7e58517a2d268b0c3b9b2500f22824f5af831ea[m
+Author: Pedro <pedropaivadev@gmail.com>
+Date:   Wed Mar 29 21:16:36 2023 -0300
+
+    class 01 - preparing the environment and getting data from the API
